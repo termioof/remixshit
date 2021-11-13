@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: Unlicensed
 
-pragma solidity >=0.8.7;
+pragma solidity >=0.6.2;
 
 interface IUniswapV2Router02 {
     function swapExactTokensForETHSupportingFeeOnTransferTokens(
